@@ -1,0 +1,14 @@
+﻿select * from empleados_integra;
+UPDATE  empleados_integra SET ci_empleado=19223764  where id_empleado=1;
+select * from pacientes;
+select * from citas;
+select * from baremo;
+select * from baremo_detalle;
+select * from permisos_medicos;
+select * from medicos;
+select * from horarios_relacion;
+select * from horarios;
+select * from especializacion;
+update especializacion set en_promocion='1' where id_especializacion=30;
+select* from especializacion where en_promocion!='1';
+SELECT DISTINCT id_especialidad,nombres FROM medicos JOIN especializacion ON id_medico=6;
