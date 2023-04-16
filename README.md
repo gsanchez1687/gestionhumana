@@ -1,4 +1,4 @@
-# Sistema de gestion de Recursos Humanos 
+# Sistema de gestión de Recursos Humanos 
 
 ![Captura](https://raw.githubusercontent.com/gsanchez1687/gestionhumana/main/images/caputuras/captura5.png)
 
@@ -10,4 +10,5 @@ Características
 4. JQuery 1.11
 5. Bootsrap 3
 
+Nota: Tiene algunas fallas ya que ha pasado mucho tiempo sin ninguna actualización
 ```
